@@ -110,7 +110,7 @@ def bfs(graph, start, end):
         nodes = generate_related_nodes(node)
         queue.push(nodes)
 ```
-3. [连通图个数][nodes = generate_related_nodes(node)]
+3. [连通图个数][https://leetcode-cn.com/problems/number-of-islands/]
 4. [拓扑排序][https://zhuanlan.zhihu.com/p/34871092]
 5. [最短路径][https://www.bilibili.com/video/av25829980?from=search&seid=13391343514095937158]
 6. [最小生成树][https://www.bilibili.com/video/av84820276?from=search&seid=17476598104352152051]
